@@ -96,9 +96,10 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)![Screenshot_837](https://github.com/user-attachments/assets/61a3b6e3-4936-44d2-b302-25a28b9d098e)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Screenshot
+![Screenshot_837](https://github.com/user-attachments/assets/61a3b6e3-4936-44d2-b302-25a28b9d098e)
 ![Screenshot_836](https://github.com/user-attachments/assets/2d740a73-cb40-4488-a724-803dc893b927)
 ![Screenshot_835](https://github.com/user-attachments/assets/dabb33ab-2efe-4972-b22a-9d6cf6b1e8eb)
 ![Screenshot_834](https://github.com/user-attachments/assets/f068bbf9-ac87-4be4-b58d-3e3cf91b1699)
