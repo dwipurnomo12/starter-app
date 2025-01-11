@@ -10,7 +10,8 @@ Starter template untuk memulai proyek Laravel dengan konfigurasi awal dan fitur 
 - Bootstrap 5 sebagai framework CSS
 - Struktur folder yang rapi untuk pengembangan
 - Pengaturan otentikasi dengan Laravel UI
-- Realrashid Sweet Alert 
+- Realrashid Sweet Alert
+- Summernote text editor
 
 ## Prasyarat
 - PHP >= 8.1
