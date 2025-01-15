@@ -13,10 +13,7 @@ Starter template untuk memulai proyek Laravel dengan konfigurasi awal dan fitur 
 - Pengaturan otentikasi dengan Laravel Breeze/Laravel UI
 - Mazer admin template
 - Summernote text editor
-- CRUD (Create, Read, Update, Delete) dengan relasi database
 
-
-## Prasyarat
 - PHP >= 8.2
 - Composer
 - MySQL atau database lain yang kompatibel
@@ -80,3 +77,10 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Screenshot
+![Screenshot_834](https://github.com/user-attachments/assets/74989b8e-6171-4239-bab5-cac4d47e2d49)
+![Screenshot_833](https://github.com/user-attachments/assets/594a41b5-4ea3-45d3-ba2c-75a0b171f50f)
+![Screenshot_835](https://github.com/user-attachments/assets/a617b239-edc5-4a27-9c7e-acf5a8c894ed)![Screenshot_837](https://github.com/user-attachments/assets/49de8f2d-0b40-4393-bcc4-b5c8a2b89ca2)
+![Screenshot_836](https://github.com/user-attachments/assets/933f7df5-9805-4b6b-81f4-1481fb8ec627)
