@@ -8,7 +8,7 @@
                     style="max-height: 150px;">
             </a>
             <div class="my-4">
-                <h4 class="text-center">{{ $application->website_name }}</h4>
+                <h4 class="text-center">Register Account</h4>
             </div>
 
             @if ($errors->any())
@@ -34,8 +34,8 @@
                 </div>
 
                 <button type="submit" class="btn btn-primary w-100 py-2 fs-4 mb-4">Masuk</button>
+                <p class="float-end"><a href="/password/reset">Forgot Password</a></p>
             </form>
         </div>
-
     </div>
 @endsection
